@@ -1,0 +1,17 @@
+{
+    "name": "ka/helloworld",
+    "authors": [{
+        "name": "Kweku Adu"
+    }],
+    "require": {
+         
+    },
+
+    "autoload": {
+       "psr-0": {
+             "Greeting": "src/"
+       }
+    }
+
+
+}
